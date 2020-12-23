@@ -1,0 +1,25 @@
+Street_Name,Zip Code,City,University_name,LongLat,Machine_Number
+2402 Cripple Creek Dr,76014,Arlington,UTA,9605,1
+2406 Windsprint Way ,76014,Arlington,UTA,1294,2
+2532 Sherry St ,76014,Arlington,UTA,6539,3
+1908 Coronado St ,76014,Arlington,UTA,9324,4
+416 Yates St ,76014,Arlington,UTA,1401,5
+224 Nicki Ln ,76014,Arlington,UTA,2111,6
+1386 Bombardier Way,76203,Denton,UNT,1064,7
+1387 Bombardier Way,76203,Denton,UNT,3866,8
+1847 Eagle Dr,76201,Denton,UNT,3780,9
+1701 Maple St,76201,Denton,UNT,6665,10
+900 Kendolph St,76201,Denton,UNT,8565,11
+1330 W Highland St ,76201,Denton,UNT,3366,12
+2700 Vine St,76209,Denton,TWU,4532,13
+601 E College St,76209,Denton,TWU,2202,14
+1163 Oakland St,76201,Denton,TWU,6041,15
+598 Oakland St,76201,Denton,TWU,8107,16
+701 Schmitz Ave,76209,Denton,TWU,5546,17
+622 N Austin St,76201,Denton,TWU,2653,18
+1163 Oakland St,76201,Denton,UNT,1915,19
+1017 W Prairie St,76201,Denton,UNT,3255,20
+1017 W Highland St,76201,Denton,UNT,9658,21
+901 Eagle Dr,76201,Denton,UNT,8308,22
+1120 Fannin St,76201,Denton,UNT,1261,23
+1898 Maple St,76201,Denton,UNT,7119,24

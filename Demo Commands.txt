@@ -1,0 +1,4 @@
+http://localhost/phase3/insertdisplay.php
+http://localhost/phase3/statsdisplay.php
+http://localhost/phase3/updatedisplay.php
+http://localhost/phase3/deletedisplay.php
